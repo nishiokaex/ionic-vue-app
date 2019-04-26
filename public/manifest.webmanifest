@@ -1,0 +1,13 @@
+{
+  "name": "Vue App",
+  "short_name": "Vue App",
+  "display": "fullscreen",
+  "start_url": "/?utm_source=home&utm_medium=pwa",
+  "icons": [
+    {
+      "src": "/512x512-apple-icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

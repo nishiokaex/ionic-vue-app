@@ -1,3 +1,6 @@
+// Web App Manifest 対応
+import 'pwacompat';
+
 // document-register-elementのパッケージはionic coreが内部で使うバージョンと一致させる必要がある
 // core@4.0.0-beta.12 の時点で document-register-element@1.7.0 を利用している
 // @vue/web-component-wrapperはVueプロパティの受け渡しに失敗して動作しなかった
